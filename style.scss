@@ -1,10 +1,5 @@
+@import "C:/Users/Carota/Desktop/gittuto/node_modules/bootstrap/scss/bootstrap.scss";
 
-
-
-
-@mixin flex-column ($direccion: column, $alinear: center){
-    display: flex;
-    flex-direction: $direccion;
-    justify-content: center;
-    align-items: $alinear;
+nav{
+    background-color: $pink-600;
 }
