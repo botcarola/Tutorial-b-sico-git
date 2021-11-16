@@ -1,0 +1,22 @@
+{
+  "name": "gittuto",
+  "version": "1.0.0",
+  "description": "Un tutorial básico de git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/botcarola/Tutorial-b-sico-git.git"
+  },
+  "author": "botcarola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botcarola/Tutorial-b-sico-git/issues"
+  },
+  "homepage": "https://github.com/botcarola/Tutorial-b-sico-git#readme",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}

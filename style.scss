@@ -1,0 +1,10 @@
+
+
+
+
+@mixin flex-column ($direccion: column, $alinear: center){
+    display: flex;
+    flex-direction: $direccion;
+    justify-content: center;
+    align-items: $alinear;
+}
